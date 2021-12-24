@@ -1,3 +1,3 @@
 <?php
-echo "Hallo allemaal, Tommy here!"
+echo "Hallo allemaal, pommy here!"
 ?>
